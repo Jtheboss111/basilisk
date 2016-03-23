@@ -1,0 +1,3 @@
+*.dll
+*.dll.mdb
+git rm --cached
