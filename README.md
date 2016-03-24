@@ -1,4 +1,4 @@
 # Basilisk
 ####Designed by: Horatiu Lazu
 
-######Files are still being added to the repository.
+######The files present include only the source files, and no external assets. Assets used in the program include standard assets only.
